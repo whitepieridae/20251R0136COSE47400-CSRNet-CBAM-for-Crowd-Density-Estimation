@@ -1,5 +1,10 @@
 # 20251R0136COSE47400
 
+Team Member: 
+Mahirah Sofea 
+Nur Mushira
+Julia Irsalina
+
 Our training history (log) of loss is in training_CSRNET.ipynb and training_CBAM.ipynb.
 These are the links to our checkpoint and best model .pth.tar
 1. CSRNet + Geo-Adaptive
