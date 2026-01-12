@@ -5,7 +5,7 @@ Mahirah Sofea
 Nur Mushira
 Julia Irsalina
 
-# Introduction 
+### Introduction 
 The Congested Scene Recognition Network, CSRNet is a deep learning model that performs well in crowd density estimation by using dilated convolutions to capture pat- terns at different scales. However, it struggles when crowd size varies greatly within an image. To address this, we propose a global Gaussian technique during data prepara- tion to help the model better supervise and capture blur in the front region. On the model side, we integrate a Convo- lutional Block Attention Module (CBAM) into CSRNet to help it focus on more important areas in both channel and spatial dimensions.
 
 Our training history (log) of loss is in training_CSRNET.ipynb and training_CBAM.ipynb.
